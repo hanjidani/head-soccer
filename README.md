@@ -8,7 +8,7 @@ pip install opencv-python
 
 This project is actually the project of EE Basic Programming Course in fall 2020 semster 1.
 
-Hope U have good time.
+Hope U have a good time.
 
 Hosein Anjidani
 Nika Zahedi
