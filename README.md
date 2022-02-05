@@ -1,5 +1,5 @@
 # head-soccer
-Basic Programming corse EE@SUT
+Basic Programming course EE@SUT
 
 To run the project It's prefered to install pyhton 3.10 with opencv2.0
 
