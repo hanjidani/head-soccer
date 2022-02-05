@@ -14,5 +14,5 @@ This project is actually the project of EE Basic Programming Course in fall 2020
 
 Hope U have a good time.
 
-Hosein Anjidani
-Nika Zahedi
+Hosein Anjidani @hanjidani
+Nika Zahedi @ni2002ka
